@@ -1,2 +1,7 @@
 .vscode/settings.json
-AP1400-2-HW1/.proxy
+AP1400-2-HW2/build
+AP1400-2-HW2/.vscode
+AP1400-2-HW1/build
+AP1400-2-HW1/.vscode
+
+AP1400-2-HW2/Dockerfile
