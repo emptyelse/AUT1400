@@ -1,0 +1,3 @@
+/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build/CMakeFiles/main.dir
+/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir

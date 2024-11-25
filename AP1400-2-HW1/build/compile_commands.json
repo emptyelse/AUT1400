@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build",
+  "command": "/usr/bin/g++  -I/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/include -g -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/main.cpp",
+  "file": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build",
+  "command": "/usr/bin/g++  -I/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/include -g -std=gnu++14 -o CMakeFiles/main.dir/src/hw1.cpp.o -c /home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/hw1.cpp",
+  "file": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/hw1.cpp",
+  "output": "CMakeFiles/main.dir/src/hw1.cpp.o"
+},
+{
+  "directory": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/build",
+  "command": "/usr/bin/g++  -I/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/include -g -std=gnu++14 -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/unit_test.cpp",
+  "file": "/home/lizhi/cpp/open_course/Advanced_Programming/AP1400-2-HW1/src/unit_test.cpp",
+  "output": "CMakeFiles/main.dir/src/unit_test.cpp.o"
+}
+]
