@@ -1,4 +1,7 @@
 #include "client.h"
+#include "server.h"
+#include "crypto.h"
+
 Client::Client(std::string id, const Server& server) : id(id), server(&server) {
     std::string public_key{}, private_key{};
     crypto::generate_key(public_key, private_key);

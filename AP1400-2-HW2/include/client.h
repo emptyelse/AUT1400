@@ -2,8 +2,7 @@
 #define CLIENT_H
 #include <string>
 #include <random>
-#include"crypto.h"
-#include "server.h"
+
 class Server; 
 class Client
 {

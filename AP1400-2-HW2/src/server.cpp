@@ -1,4 +1,5 @@
 #include "server.h"
+#include "crypto.h"
 Server::Server(){this->clients={};}
 std::vector<std::string> pending_trxs = {};
 std::shared_ptr<Client> Server::add_client(std::string id) {

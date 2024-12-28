@@ -1,9 +1,7 @@
-
 #include "gtest/gtest.h"
-#include "gmock/gmock.h"
 #include "server.h"
 #include "client.h"
-
+#include "crypto.h"
 
 TEST(HW1Test, TEST1) {
     Server server{};
